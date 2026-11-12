@@ -1,0 +1,9 @@
+{
+  "versionCode": 12,
+  "versionName": "1.0.12",
+  "notes": "New: Share this app\n- A QR code anyone can scan with their phone camera to download Health Tracker\n- \"Share link\" sends the download link through Messenger, Viber, SMS and more\n- \"Save QR to gallery\" saves a ready-to-post picture\n- Find it in Settings, or tap \"Share this app\" at the bottom of Today",
+  "sha256": "3e82f47fa1ade48743d2afb4546dc1df08ce068bafaecd563b92704a917946fa",
+  "size": 22613757,
+  "apkUrl": "https://raw.githubusercontent.com/bdpcreatives1128/health-tracker-updates/main/HealthTracker-1.0.12.apk",
+  "published": "2026-11-12T07:56:20Z"
+}
